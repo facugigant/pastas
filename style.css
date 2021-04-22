@@ -21,6 +21,13 @@ a.nav-link{
 
 letter-spacing: 0;
 }
+.navbar-toggler{
+  margin-right: 15%;
+}
+#navbarNavDropdown{
+  text-align: end;
+  margin-right: 15%;
+}
 
 /* FIN NAVBAR / MENU */
 
@@ -54,7 +61,7 @@ article{
   width: 50%;
 }
 .articulo1texto{
-  margin-top: 15%;
+  margin-top: 12%;
   text-align: start;
 }
 .articulo2{

@@ -1,0 +1,96 @@
+
+
+/* NAVBAR / MENU */
+header{
+  height: 55px;
+}
+a.nav-link{
+  color: rgba(255, 153, 0, 0.824) !important;
+}
+.navbar{
+  background: rgb(50, 50, 50, 0.9) !important;
+  height: 7%;
+}
+.navbar-nav{
+  margin-left: 25%;
+}
+.navbar-brand{
+  margin-left: 15%;
+}
+.nav-item{
+
+letter-spacing: 0;
+}
+
+/* FIN NAVBAR / MENU */
+
+/* EL CHEFF INDEX */
+.card{
+ 
+  padding: 0;
+  margin-top: 4%;
+}
+
+.card-img-overlay{
+
+  margin-left: 7%;
+  margin-top: 5%;
+}
+
+/*FIN  EL CHEFF INDEX */
+
+
+
+/* INICIO de Articulos */
+article{
+  margin: 0%;
+  padding: 0;
+  text-align: center;
+  
+}
+.articulo1{
+  margin-left: 13%;
+  margin-top: 5%;
+  width: 50%;
+}
+.articulo1texto{
+  margin-top: 15%;
+  text-align: start;
+}
+.articulo2{
+  margin-right: 15%;
+  width: 50%;
+  margin-top: 5%;
+}
+.articulo2texto{
+  margin-top: 12%;
+  text-align: start;
+}
+.articulo3{
+  margin-left: 13%;
+  margin-top: 5%;
+  width: 50%;
+}
+.articulo3texto{
+  margin-top: 12%;
+  text-align: start;
+}
+
+/* /* FIN de Articulos */ 
+
+
+
+/* FOOTER */
+footer {
+  text-align: center;
+margin-top: 11%;
+  background: rgb(50, 50, 50);
+  color: white;
+
+}
+
+.nombresfooter {
+  margin-top: -8%;
+}
+
+/* Fin de FOOTER */

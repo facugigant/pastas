@@ -1,0 +1,45 @@
+/* NAVBAR / MENU */
+header{
+    height: 55px;
+  }
+  a.nav-link{
+    color: rgba(255, 153, 0, 0.824) !important;
+  }
+  .navbar{
+    background: rgb(50, 50, 50, 0.9) !important;
+    height: 7%;
+  }
+  .navbar-nav{
+    margin-left: 25%;
+  }
+  .navbar-brand{
+    margin-left: 15%;
+  }
+  .nav-item{
+  
+  letter-spacing: 0;
+  }
+  .navbar-toggler{
+    margin-right: 15%;
+  }
+  #navbarNavDropdown{
+    text-align: end;
+    margin-right: 15%;
+  }
+  
+  /* FIN NAVBAR / MENU */
+
+  /* FOOTER */
+footer {
+    text-align: center;
+  margin-top: 11%;
+    background: rgb(50, 50, 50);
+    color: white;
+  
+  }
+  
+  .nombresfooter {
+    margin-top: -8%;
+  }
+  
+  /* Fin de FOOTER */

@@ -1,33 +1,22 @@
 
 
 /* NAVBAR / MENU */
-header{
-  height: 55px;
+
+
+a.nav-link:hover{
+
+  transform: scale(1.2);
+  color: white !important;
+  
 }
 a.nav-link{
   color: rgba(255, 153, 0, 0.824) !important;
 }
+
 .navbar{
   background: rgb(50, 50, 50, 0.9) !important;
-  height: 7%;
 }
-.navbar-nav{
-  margin-left: 25%;
-}
-.navbar-brand{
-  margin-left: 15%;
-}
-.nav-item{
 
-letter-spacing: 0;
-}
-.navbar-toggler{
-  margin-right: 15%;
-}
-#navbarNavDropdown{
-  text-align: end;
-  margin-right: 15%;
-}
 
 /* FIN NAVBAR / MENU */
 
@@ -35,13 +24,13 @@ letter-spacing: 0;
 .card{
  
   padding: 0;
-  margin-top: 4%;
+  margin-top: -10%;
 }
 
 .card-img-overlay{
 
   margin-left: 7%;
-  margin-top: 5%;
+  margin-top: 19%;
 }
 
 /*FIN  EL CHEFF INDEX */
@@ -98,6 +87,19 @@ margin-top: 11%;
 
 .nombresfooter {
   margin-top: -8%;
+}
+
+
+.fot1:hover{
+  color: blue;
+}
+
+.fot1{
+ color:  white;
+ text-transform: none;
+ text-decoration: none;
+
+
 }
 
 /* Fin de FOOTER */
